@@ -1,2 +1,2 @@
-# TensorFlow---GenerateText
+# Keras---GenerateText
 Text generators
